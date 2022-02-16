@@ -4,7 +4,7 @@
         "title": "aphex twin project",
         "cover": "",
         "desc": "I was tasked to output data through a web application, using React. I decided to make a visualization depicting four of my favorite Aphex Twin albums, along with the tracklist/description of the chosen album, along with playable tracks.",
-        "tech": "React, JSON, Node.JS, GitHub Pages",
+        "tech": "React.js, JSON, Node.js, GitHub Pages",
         "url1": "https://mramirez0610.github.io/project2repo/",
         "url2": "https://github.com/mramirez0610/project2repo"
     },
@@ -12,7 +12,7 @@
         "id": "1",
         "title": "landing page",
         "cover": "",
-        "desc": "As a personal project, I took it upon myself to create a landing page that followed the layout of CMS's, such as Carrd.co, that allow you to create simple landing pages using premade HTML and CSS components. I created this in a day, but decided that I wanted a nice animation in the background, so I used p5.js to accomplish that (which took another day for configurations).",
+        "desc": "As a personal project, I took it upon myself to create a landing page that followed the layout of CMS's, such as Carrd.co or LinkTree, that allow you to create simple landing pages using premade HTML and CSS components. I created this in a day, but decided that I wanted a nice animation in the background, so I used p5.js to accomplish that (which took another day for configurations).",
         "tech": "HTML, CSS, p5.js",
         "url1": "https://mramirez0610.github.io/landing/",
         "url2": "https://github.com/mramirez0610/landing"
