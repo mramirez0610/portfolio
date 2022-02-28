@@ -19,11 +19,11 @@
     },
     {
         "id": "2",
-        "title": "project name",
+        "title": "portfolio page",
         "cover": "",
-        "desc": "",
-        "tech": "",
-        "url1": "",
-        "url2": ""
+        "desc": "You're here right now! I decided to create this page as a central source that displays all my Front-End endeavors. I made this site using React, as well as React-Router.",
+        "tech": "React, React-Router, JSON, Github Pages",
+        "url1": "https://mramirez0610.github.io/portfolio",
+        "url2": "https://github.com/mramirez0610/portfolio"
     }
 ]
