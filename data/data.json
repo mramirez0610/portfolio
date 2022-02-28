@@ -3,7 +3,7 @@
         "id": "0",
         "title": "aphex twin project",
         "cover": "",
-        "desc": "I was tasked to output data from a JSON file through a web application, using React. I decided to make a visualization depicting four of my favorite Aphex Twin albums, along with the tracklist/description of the chosen album, along with playable tracks.",
+        "desc": "I was tasked to output data from a JSON file through a web application, using React. I decided to make a visualization depicting four of my favorite Aphex Twin albums, as well as the tracklist/description of the chosen album, along with playable tracks.",
         "tech": "React.js, JSON, Node.js, GitHub Pages",
         "url1": "https://mramirez0610.github.io/project2repo/",
         "url2": "https://github.com/mramirez0610/project2repo"
