@@ -21,7 +21,7 @@
         "id": "2",
         "title": "portfolio page",
         "cover": "",
-        "desc": "You're here right now! I decided to create this page as a central source that displays all my Front-End endeavors. I made this site using React, as well as React-Router.",
+        "desc": "You're here right now! I decided to create this page as a central source that displays all my Front-End endeavors. I made this site using React, as well as React-Router. I wanted to heavily focus on responsive design this project, and I feel that it translates nicely to mobile.",
         "tech": "React, React-Router, JSON, Github Pages",
         "url1": "https://mramirez0610.github.io/portfolio",
         "url2": "https://github.com/mramirez0610/portfolio"
