@@ -1,0 +1,56 @@
+/* =============
+Table of contents:
+
+1. Navbar styles
+2. Banner styles
+
+============= */
+
+/* 1. Navbar styles */
+.navbar{
+    position: sticky;
+    font-family: 'Mulish', sans-serif;
+    display: inline-block;
+    background-color: #323031;
+    width: 100vw;
+}
+
+.navbar 
+.nav-item{
+    float: right;
+}
+
+.nav-item{
+    text-decoration: none;
+    color: #F1F1F1;
+    padding: 1.5ch;
+    margin-right: 0.5%;
+}
+
+.nav-item:hover{
+    color: rgba(0, 0, 0, 0.25);
+}
+
+/* 2. Banner styles */
+.banner{
+    font-size: 6ch;
+    padding-top: 2ch;
+    padding-bottom: 1ch;
+    color: #3D3B3C;
+}
+
+.icon{
+    width: 2.75ch;
+}
+
+.socials{
+    animation: 0.8s ease-out 0s 1 appear;
+    padding-top: 1ch;
+    display: flex;
+    gap: 2ch;
+    justify-content: center;
+}
+
+@media screen and (max-width: 640px) {
+    .banner { font-size: min(6ch, 8ch); }
+}
